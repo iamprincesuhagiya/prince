@@ -1,7 +1,7 @@
 {
-   "name": "prince",
+   "name": "iamprincesuhagiya",
    "version": "1.0.0",
    "bin": {
-      "prince": "index.js"
+      "iamprincesuhagiya": "index.js"
    }
 }
